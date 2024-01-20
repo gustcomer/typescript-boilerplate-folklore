@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gustcomer/typescript-boilerplate-folklore#readme",
   "devDependencies": {
+    "@types/node": "^20.11.5",
     "typescript": "^5.3.3"
   }
 }
