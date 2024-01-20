@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gustcomer/typescript-boilerplate-folklore/issues"
   },
-  "homepage": "https://github.com/gustcomer/typescript-boilerplate-folklore#readme"
+  "homepage": "https://github.com/gustcomer/typescript-boilerplate-folklore#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
