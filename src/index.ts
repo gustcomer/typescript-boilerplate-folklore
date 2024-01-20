@@ -1,11 +1,5 @@
-import fs from 'fs'
+import Person from './Person'
 
-console.log(123)
+const p = new Person('John Doe')
 
-var addNumber = function (a:any, b:any) {
-  return a+b;
-};
-
-fs.writeFileSync("test.txt", "test")
-
-console.log(addNumber(1, 2));
+console.log(p.toString());
