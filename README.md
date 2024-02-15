@@ -12,6 +12,13 @@ framework dependency getting in the way.
 
 - [Gustavo Comerlatto](https://github.com/gustcomer)
 
+## Usage
+
+To install the project, just type:
+```
+npm install
+```
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
