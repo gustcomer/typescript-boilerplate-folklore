@@ -1,6 +1,7 @@
-const result: string[] = [];
 
 function removeDuplicatedChars(input: string): string {
+  const result: string[] = [];
+  //const result = [];
   let seen: Set<string> = new Set();
   for (let c of input) {
     if (!seen.has(c)){
@@ -8,7 +9,7 @@ function removeDuplicatedChars(input: string): string {
       result.push(c);
     }
   }
-  return [...seen].toString();
+  return [...result].toString();
 }
 
 let s = "aaabbcdeeabwz"
