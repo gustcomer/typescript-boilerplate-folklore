@@ -11,11 +11,18 @@ Study this set of examples to improve youtr Typescript skills.
 
 - [Gustavo Comerlatto](https://github.com/gustcomer)
 
-## Usage
+## Installation
 
 To install the project, just type:
 ```
 npm install
+```
+
+## Usage
+
+To run any script, just type:
+```
+npx ts-node src/index.ts
 ```
 
 ## License
